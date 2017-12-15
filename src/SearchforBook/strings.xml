@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Search for Book</string>
+    <string name="city_prompt">Choose a city</string>
+
+    <string-array name="city_arrays">
+        <item>Select City</item>
+        <item>Los Angeles</item>
+        <item>San Diego</item>
+        <item>San Jose</item>
+        <item>Sacramento</item>
+        <item>San Franscisco</item>
+    </string-array>
+
+    <string name="school_prompt">Choose a school</string>
+
+    <string-array name="school_arrays">
+        <item>Select School</item>
+        <item>CSUDH</item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>HIJ</item>
+        <item>MNO</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
